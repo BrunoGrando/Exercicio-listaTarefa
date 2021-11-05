@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(95, 89, 131);
+    font-family: sans-serif;
+}
+.container{
+    margin-top: 100px;
+    background-color: rgb(178, 189, 189);
+    border-radius: 32px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
